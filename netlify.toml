@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/api/claude"
+  to = "https://api.anthropic.com/v1/messages"
+  status = 200
+  force = true
+  headers = {X-Api-Key = "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", anthropic-version = "2023-06-01"}
+    n
